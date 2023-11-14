@@ -1,0 +1,11 @@
+.hover-highlight:hover {
+    border: 2px solid blue; 
+  }
+.image-container {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+    
+.image-container:last-child {
+  margin-right: 0;
+}
